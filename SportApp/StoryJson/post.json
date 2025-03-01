@@ -1,0 +1,57 @@
+[
+    {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+        "name": "Maple French Toast",
+        "image": "post1",
+        "photoCredit": "Joseph Gonzalez",
+        "price": 6,
+        "restrictions": ["G", "V"],
+        "description": "Sweet, fluffy, and served piping hot, our French toast is flown in fresh every day from Maple City, Canada, which is where all maple syrup in the world comes from. And if you believe that, we have some land to sell you…"
+    },
+    {
+        "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+        "name": "Stack-o-Pancakes",
+        "image": "post2",
+        "photoCredit": "Joseph Gonzalez",
+        "price": 8,
+        "restrictions": ["D", "G", "V"],
+        "description": "What do you get? Pancakes! How many do you get? One metric stack! That's equivalent to 1000 millistacks, or a tenth of a kilostack. In short, you get a lot of pancakes."
+    },
+    {
+        "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+        "name": "Power Muesli",
+        "image": "post3",
+        "photoCredit": "Hanny Naibaho",
+        "price": 5,
+        "restrictions": ["D", "N"],
+        "description": "Is normal muesli too boring? Of course it is. That's why we serve power muesli – it's like regular muesli, except we put the word \"power\" in front of it so we can charge more."
+    },
+    {
+        "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+        "name": "Fresh-baked Croissant",
+        "image": "post4",
+        "photoCredit": "Kavita Joshi Rai",
+        "price": 3,
+        "restrictions": ["D", "G"],
+        "description": "This is just a regular croissant that we buy in bulk from a frozen foods supermarket, but we needed some sort of adjective to justify our price. So, it was either \"fresh-baked\" or \"authentic Parisian\", and our legal team thinks the latter is probably going to land us in hot water."
+    },
+    {
+        "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+        "name": "Full English",
+        "image": "post5",
+        "photoCredit": "Melissa Walker Horn",
+        "price": 12,
+        "restrictions": ["G"],
+        "description": "If you like eating breakfast out of things that could easily be served any time of day, then we have the perfect thing for you. Comes with tomato ketchup or brown sauce depending on how northern you sound."
+    },
+    {
+        "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
+        "name": "Porridge Deluxe",
+        "image": "post6",
+        "photoCredit": "Monika Grabkowska",
+        "price": 4,
+        "restrictions": ["D", "N", "V"],
+        "description": "This is literally just porridge. Bob, where did you get this picture? Our porridge looks nothing like this. No porridge does – who the heck has the time to make porridge like this? [NOTE FOR BOB: Replace this with actual marketing text]"
+    }
+]
+
