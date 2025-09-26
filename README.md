@@ -99,4 +99,4 @@ Test will run in host-less mode to avoid launching a new simulator and installin
 
 ### Who do I talk to? ###
 
-* Sandeep Thakur (sthakur820@gmail.com) is your best bet for any questions about how to get up and running. 
+* Sandeep (sthakur820@gmail.com) is your best bet for any questions about how to get up and running. 
